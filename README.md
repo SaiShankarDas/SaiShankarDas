@@ -1,6 +1,6 @@
 # Hi, I'm Sai Shankar Das
 
-**Founder & Lead Web Developer | 3rd-Year B.Tech Computer Engineering Student**
+**Founder & Lead Web Developer | B.Tech Computer Engineering Student**
 
 I build production-ready client projects across travel, hospitality, education, and business sectors, specializing in high-performance web applications and AI-powered automation workflows.
 
@@ -9,7 +9,7 @@ I build production-ready client projects across travel, hospitality, education, 
 ### About Me
 
 * Founder and Lead Web Developer at SHNKR.DEV (Nov. 2025 - Present).
-* Pursuing a Bachelor of Technology in Computer Engineering (3rd Year) at Odisha University of Technology and Research (2024 - 2028).
+* Pursuing a Bachelor of Technology in Computer Engineering at Odisha University of Technology and Research (2024 - 2028).
 * Experienced in building AI-powered automation workflows using LLMs, n8n, REST APIs, and Google Apps Script to streamline lead generation and business operations.
 * Led a team of Digital Sales Partners (DSPs) to drive client acquisition and project delivery.
 * Generated 600+ qualified leads within 6 months for a travel agency by developing a high-performance website and implementing technical SEO best practices.
